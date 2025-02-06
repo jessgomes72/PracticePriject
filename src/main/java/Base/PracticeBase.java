@@ -11,7 +11,7 @@ import org.openqa.selenium.support.ui.Wait;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
 import java.time.Duration;
-
+// Changes
 public class PracticeBase {
 
         //Selenium works with webDriver class
